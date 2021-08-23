@@ -1,4 +1,3 @@
-# data-types
 module enum_datatype;
   //declaration
   enum { red=0, green, blue=4, yellow, white=10, black } Colors;
